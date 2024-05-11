@@ -1,0 +1,28 @@
+#movie-list {
+    margin-top: 20px;
+  }
+  
+  .movie {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #888;
+  }
+  
+  .movie img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .movie p {
+    font-size: 16px;
+  }
+  
+  .movie p.genre {
+    font-weight: bold;
+  }
+  
+  .movie p.meta {
+    color: #ccc;
+  }
+  
